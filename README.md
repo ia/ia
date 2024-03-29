@@ -1,5 +1,4 @@
-_I do what I can, with what I've got, where I am._
-
+_I do what I can, with what I've got, where I am._  
 _Jack of all trades, but master of none._
 
 
