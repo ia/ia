@@ -5,6 +5,9 @@ _Jack of all trades, but master of none._
 - [**Homepage**](https://ia.github.io)
 
 
+- [**Homelab**](https://ia.github.io/log)
+
+
 - [**Homelab**](https://h0melab.github.io)
 
 
