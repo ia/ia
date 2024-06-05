@@ -2,17 +2,11 @@ _I do what I can, with what I've got, where I am._
 _Jack of all trades, but master of none._
 
 
-- [**Homepage**](https://ia.github.io)
+- [**Page**](https://ia.github.io) && [**Blog**](https://ia.github.io/log)
 
-
-- [**Homelab**](https://ia.github.io/log)
-
-
-- [**Homelab**](https://h0melab.github.io)
-
+- [**HomeLab**](https://h0melab.github.io)
 
 - [**Contribution**](https://github.com/pulls?q=is%3Apr+author%3Aia+archived%3Afalse)
-
 
 - **Dashboard**:
 
