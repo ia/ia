@@ -2,6 +2,13 @@ _I do what I can, with what I've got, where I am._
 _Jack of all trades, but master of none._
 
 
+---
+
+ • System Engineer • Open Source Developer • Independent Researcher •
+
+---
+
+
 - [**Page**](https://ia.github.io) && [**Blog**](https://ia.github.io/log)
 
 - [**HomeLab**](https://h0melab.github.io)
