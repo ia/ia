@@ -9,7 +9,7 @@ _Jack of all trades, but master of none._
 ---
 
 
-- [**Page**](https://ia.github.io) && [**Blog**](https://ia.github.io/log)
+- [**HomePage**](https://ia.github.io)
 
 - [**HomeLab**](https://h0melab.github.io)
 
