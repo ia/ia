@@ -1,4 +1,4 @@
-_Happiness is not about getting all you want but enjoying all that you have._
+_Happiness is not about getting all you want but enjoying all that you have._  
 _Therefore, I do what I can, with what I've got, where I am._  
 _Jack of all trades, but master of none._
 
