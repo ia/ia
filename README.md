@@ -5,12 +5,8 @@ _Jack of all trades, but master of none._
 
 ---
 
-• System Engineer  
-• Open Source Developer  
-• Community Manager  
-• Independent Researcher  
-• Conference Speaker  
-• Fullheap Maintainer  
+• System Engineer • Open Source Developer • Independent Researcher •  
+• Fullheap Maintainer • Community Manager • Conference Speaker •  
 
 ---
 
